@@ -1,6 +1,9 @@
 # Thermodynamics Visualized: The Second Law & Entropy
-
 This repository contains the Python/Manim source code for a video series visualizing the core concepts of the Second Law of Thermodynamics, the Clausius Inequality, and Entropy.
+
+📺 **[Watch the full video series on YouTube](view the playlist here: https://www.youtube.com/playlist?list=PLS5tmNdH2GK4
+)**
+
 
 ## 📚 Reference Material
 The mathematical derivations, figures, and concepts in these animations are directly based on:
